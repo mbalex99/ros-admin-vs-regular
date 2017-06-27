@@ -8,6 +8,8 @@
 3. Run `npm install`
 4. Run `npm start`
 
+### What does this attempt to do?
+
 This will attempt to create 2 cars.
 * 1 Car will be an admin user
 * 1 Car will be an regular user
